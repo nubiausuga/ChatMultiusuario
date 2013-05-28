@@ -1,0 +1,35 @@
+C:\Desarrollo\Blog\Chat\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Desarrollo\Blog\Chat\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Desarrollo\Blog\Chat\Cliente\Cliente\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\Blog\Chat\Cliente\Cliente\obj\x86\Debug\Cliente.Properties.Resources.resources
+C:\Desarrollo\Blog\Chat\Cliente\Cliente\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Desarrollo\Blog\Chat\Cliente\Cliente\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Desarrollo\Blog\Chat\Cliente\Cliente\obj\x86\Debug\Cliente.exe
+C:\Desarrollo\Blog\Chat\Cliente\Cliente\obj\x86\Debug\Cliente.pdb
+C:\Desarrollo\Blog\Chat\Cliente\Cliente\obj\x86\Debug\Cliente.frmCliente.resources
+C:\Desarrollo\Blog\Chat\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\FELIPE\Documents\Visual Studio 2012\Projects\Chat\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\FELIPE\Documents\Visual Studio 2012\Projects\Chat\Cliente\Cliente\obj\x86\Debug\Cliente.exe
+C:\Users\FELIPE\Documents\Visual Studio 2012\Projects\Chat\Cliente\Cliente\obj\x86\Debug\Cliente.pdb
+C:\Users\FELIPE\Documents\Visual Studio 2012\Projects\Chat\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\FELIPE\Documents\Visual Studio 2012\Projects\Chat\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\FELIPE\Documents\Visual Studio 2012\Projects\Chat\Cliente\Cliente\obj\x86\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\FELIPE\Documents\Visual Studio 2012\Projects\Chat\Cliente\Cliente\obj\x86\Debug\Cliente.frmCliente.resources
+C:\Users\FELIPE\Documents\Visual Studio 2012\Projects\Chat\Cliente\Cliente\obj\x86\Debug\Cliente.Properties.Resources.resources
+C:\Users\FELIPE\Documents\Visual Studio 2012\Projects\Chat\Cliente\Cliente\obj\x86\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\FELIPE\Documents\Visual Studio 2012\Projects\Chat\Cliente\Cliente\bin\Debug\Cliente.XML
+C:\Users\Nubia\Documents\Visual Studio 2010\Projects\Chat\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Nubia\Documents\Visual Studio 2010\Projects\Chat\Cliente\Cliente\bin\Debug\Cliente.XML
+C:\Users\Nubia\Documents\Visual Studio 2010\Projects\Chat\Cliente\Cliente\obj\x86\Debug\Cliente.exe
+C:\Users\Nubia\Documents\Visual Studio 2010\Projects\Chat\Cliente\Cliente\obj\x86\Debug\Cliente.pdb
+C:\Users\Nubia\Documents\Visual Studio 2010\Projects\Chat\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\Nubia\Documents\Visual Studio 2010\Projects\Chat\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Nubia\Documents\Visual Studio 2010\Projects\Chat\Cliente\Cliente\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nubia\Documents\Visual Studio 2010\Projects\Chat\Cliente\Cliente\obj\x86\Debug\Cliente.frmCliente.resources
+C:\Users\Nubia\Documents\Visual Studio 2010\Projects\Chat\Cliente\Cliente\obj\x86\Debug\Cliente.Properties.Resources.resources
+C:\Users\Nubia\Documents\Visual Studio 2010\Projects\Chat\Cliente\Cliente\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nubia\Documents\Visual Studio 2010\Projects\Chat\Cliente\Cliente\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MIS DOCUMENTOS\INGENIERIA DE SISTEMAS\OCTAVO SEMESTRE\TELEMATICA\PRACTICA FINAL\PracticaUsuga_Rodriguez\Documentacion\Documentos xml\Cliente.exe.config
+D:\MIS DOCUMENTOS\INGENIERIA DE SISTEMAS\OCTAVO SEMESTRE\TELEMATICA\PRACTICA FINAL\PracticaUsuga_Rodriguez\Documentacion\Documentos xml\Cliente.exe
+D:\MIS DOCUMENTOS\INGENIERIA DE SISTEMAS\OCTAVO SEMESTRE\TELEMATICA\PRACTICA FINAL\PracticaUsuga_Rodriguez\Documentacion\Documentos xml\Cliente.pdb
+D:\MIS DOCUMENTOS\INGENIERIA DE SISTEMAS\OCTAVO SEMESTRE\TELEMATICA\PRACTICA FINAL\PracticaUsuga_Rodriguez\Documentacion\Documentos xml\Cliente.XML

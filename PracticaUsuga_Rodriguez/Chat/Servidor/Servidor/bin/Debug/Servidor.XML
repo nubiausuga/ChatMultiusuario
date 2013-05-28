@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Servidor</name>
+    </assembly>
+    <members>
+        <member name="T:Servidor.frmServidor">
+            <summary>
+            Servidor para administrar el chat.
+            </summary>
+        </member>
+        <member name="F:Servidor.frmServidor.components">
+            <summary>
+            Variable del diseñador requerida.
+            </summary>
+        </member>
+        <member name="M:Servidor.frmServidor.Dispose(System.Boolean)">
+            <summary>
+            Limpiar los recursos que se estén utilizando.
+            </summary>
+            <param name="disposing">true si los recursos administrados se deben eliminar; false en caso contrario, false.</param>
+        </member>
+        <member name="M:Servidor.frmServidor.InitializeComponent">
+            <summary>
+            Método necesario para admitir el Diseñador. No se puede modificar
+            el contenido del método con el editor de código.
+            </summary>
+        </member>
+        <member name="F:Servidor.frmServidor.servidor">
+            <summary>
+            La clase TcpListener proporciona métodos sencillos para escuchar y 
+            aceptar solicitudes de conexión entrantes en modo de bloqueo sincrónico.
+            </summary>
+        </member>
+        <member name="F:Servidor.frmServidor.clientes_conectados">
+            <summary>
+            Almacenará el nombre de los clientes conectados
+            </summary>
+        </member>
+        <member name="F:Servidor.frmServidor.mensajeCliente">
+            <summary>
+            Mensaje recibido del cliente o que se enviará al cliente
+            </summary>
+        </member>
+        <member name="F:Servidor.frmServidor.mensajeChat">
+            <summary>
+            Mensaje que se envía a la pantalla del Servidor.
+            </summary>
+        </member>
+        <member name="F:Servidor.frmServidor.btnActivar">
+            <summary>
+            Variable boolean que simula el patron singleton al pulsar el boton iniciar
+            </summary>
+        </member>
+        <member name="F:Servidor.frmServidor.idThread">
+            <summary>
+            Variable para el manejo del id del hijo que maneja el servidor
+            </summary>
+        </member>
+        <member name="F:Servidor.frmServidor.InitServer">
+            <summary>
+            Definimos la variable a utilizar en la creacion de los hilos
+            </summary>
+        </member>
+        <member name="M:Servidor.frmServidor.btnIniciar_Click(System.Object,System.EventArgs)">
+            <summary>
+            Inicia el servidor de chat
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Servidor.frmServidor.btnCerrar_Click(System.Object,System.EventArgs)">
+            <summary>
+            Detiene el servidor de chat
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Servidor.frmServidor.iniciarServidor">
+            <summary>
+            Difunde el mensaje de un usuario a todos los usuarios conectados a la sala.
+            </summary>
+            <param name="mensaje">Mensaje del Usuario</param>
+            <param name="nombre">Nombre del usuario</param>
+            <param name="flag">Bandera que se utiliza para determinar si se agrega el texto 
+            "dice" al mensaje enviado por el usuario</param>
+            
+        </member>
+        <member name="T:Servidor.Properties.Resources">
+            <summary>
+              Clase de recurso con establecimiento inflexible de tipos para buscar cadenas traducidas, etc.
+            </summary>
+        </member>
+        <member name="P:Servidor.Properties.Resources.ResourceManager">
+            <summary>
+              Devuelve la instancia ResourceManager almacenada en caché utilizada por esta clase.
+            </summary>
+        </member>
+        <member name="P:Servidor.Properties.Resources.Culture">
+            <summary>
+              Invalida la propiedad CurrentUICulture del subproceso actual para todas las
+              búsquedas de recursos usando esta clase de recursos con establecimiento inflexible de tipos.
+            </summary>
+        </member>
+        <member name="M:Servidor.Program.Main">
+            <summary>
+            Punto de entrada principal para la aplicación.
+            </summary>
+        </member>
+        <member name="M:Servidor.Chat.doChat">
+            <summary>
+            Cicla el proceso indefinidamente para que el servidor quede a la espera de nuevos mensajes 
+            por parte de los clientes.
+            </summary>
+        </member>
+    </members>
+</doc>

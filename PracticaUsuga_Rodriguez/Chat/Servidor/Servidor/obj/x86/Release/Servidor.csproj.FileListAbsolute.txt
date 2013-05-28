@@ -1,0 +1,9 @@
+C:\Desarrollo\Blog\Chat\Servidor\Servidor\bin\Release\Servidor.exe
+C:\Desarrollo\Blog\Chat\Servidor\Servidor\bin\Release\Servidor.pdb
+C:\Desarrollo\Blog\Chat\Servidor\Servidor\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Desarrollo\Blog\Chat\Servidor\Servidor\obj\x86\Release\Servidor.frmServidor.resources
+C:\Desarrollo\Blog\Chat\Servidor\Servidor\obj\x86\Release\Servidor.Properties.Resources.resources
+C:\Desarrollo\Blog\Chat\Servidor\Servidor\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Desarrollo\Blog\Chat\Servidor\Servidor\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Desarrollo\Blog\Chat\Servidor\Servidor\obj\x86\Release\Servidor.exe
+C:\Desarrollo\Blog\Chat\Servidor\Servidor\obj\x86\Release\Servidor.pdb

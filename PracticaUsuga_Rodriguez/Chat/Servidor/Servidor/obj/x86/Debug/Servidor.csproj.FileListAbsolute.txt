@@ -1,0 +1,29 @@
+C:\Desarrollo\Blog\Chat\Servidor\Servidor\bin\Debug\Servidor.exe
+C:\Desarrollo\Blog\Chat\Servidor\Servidor\bin\Debug\Servidor.pdb
+C:\Desarrollo\Blog\Chat\Servidor\Servidor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\Blog\Chat\Servidor\Servidor\obj\x86\Debug\Servidor.frmServidor.resources
+C:\Desarrollo\Blog\Chat\Servidor\Servidor\obj\x86\Debug\Servidor.Properties.Resources.resources
+C:\Desarrollo\Blog\Chat\Servidor\Servidor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Desarrollo\Blog\Chat\Servidor\Servidor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Desarrollo\Blog\Chat\Servidor\Servidor\obj\x86\Debug\Servidor.exe
+C:\Desarrollo\Blog\Chat\Servidor\Servidor\obj\x86\Debug\Servidor.pdb
+C:\Users\FELIPE\Documents\Visual Studio 2012\Projects\Chat\Servidor\Servidor\obj\x86\Debug\Servidor.exe
+C:\Users\FELIPE\Documents\Visual Studio 2012\Projects\Chat\Servidor\Servidor\obj\x86\Debug\Servidor.pdb
+C:\Users\FELIPE\Documents\Visual Studio 2012\Projects\Chat\Servidor\Servidor\bin\Debug\Servidor.exe
+C:\Users\FELIPE\Documents\Visual Studio 2012\Projects\Chat\Servidor\Servidor\bin\Debug\Servidor.pdb
+C:\Users\FELIPE\Documents\Visual Studio 2012\Projects\Chat\Servidor\Servidor\obj\x86\Debug\Servidor.csprojResolveAssemblyReference.cache
+C:\Users\FELIPE\Documents\Visual Studio 2012\Projects\Chat\Servidor\Servidor\obj\x86\Debug\Servidor.frmServidor.resources
+C:\Users\FELIPE\Documents\Visual Studio 2012\Projects\Chat\Servidor\Servidor\obj\x86\Debug\Servidor.Properties.Resources.resources
+C:\Users\FELIPE\Documents\Visual Studio 2012\Projects\Chat\Servidor\Servidor\obj\x86\Debug\Servidor.csproj.GenerateResource.Cache
+C:\Users\Nubia\Documents\Visual Studio 2010\Projects\Chat\Servidor\Servidor\obj\x86\Debug\Servidor.exe
+C:\Users\Nubia\Documents\Visual Studio 2010\Projects\Chat\Servidor\Servidor\obj\x86\Debug\Servidor.pdb
+C:\Users\Nubia\Documents\Visual Studio 2010\Projects\Chat\Servidor\Servidor\bin\Debug\Servidor.exe
+C:\Users\Nubia\Documents\Visual Studio 2010\Projects\Chat\Servidor\Servidor\bin\Debug\Servidor.pdb
+C:\Users\Nubia\Documents\Visual Studio 2010\Projects\Chat\Servidor\Servidor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nubia\Documents\Visual Studio 2010\Projects\Chat\Servidor\Servidor\obj\x86\Debug\Servidor.frmServidor.resources
+C:\Users\Nubia\Documents\Visual Studio 2010\Projects\Chat\Servidor\Servidor\obj\x86\Debug\Servidor.Properties.Resources.resources
+C:\Users\Nubia\Documents\Visual Studio 2010\Projects\Chat\Servidor\Servidor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nubia\Documents\Visual Studio 2010\Projects\Chat\Servidor\Servidor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nubia\Desktop\xml\Servidor.exe
+C:\Users\Nubia\Desktop\xml\Servidor.pdb
+C:\Users\Nubia\Desktop\xml\Servidor.XML
